@@ -1,0 +1,4 @@
+database.db
+target/
+migrations/*.sql
+.env
