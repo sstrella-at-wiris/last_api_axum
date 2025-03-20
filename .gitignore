@@ -2,3 +2,5 @@ database.db
 target/
 migrations/*.sql
 .env
+*.db-shm
+*.db-wal
